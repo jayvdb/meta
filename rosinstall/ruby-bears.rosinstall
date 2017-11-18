@@ -1,0 +1,21 @@
+- git:
+    local-name: linters/csvlint
+    uri: https://gitlab.com/theodi/csvlint.rb
+- git:
+    local-name: linters/puppet-lint
+    uri: https://gitlab.com/rodjek/puppet-lint
+- git:
+    local-name: linters/reek
+    uri: https://gitlab.com/troessner/reek
+- git:
+    local-name: linters/rubocop
+    uri: https://gitlab.com/bbatsov/rubocop/
+- git:
+    local-name: linters/scss-lint
+    uri: https://gitlab.com/brigade/scss-lint
+- git:
+    local-name: linters/sqlint
+    uri: https://gitlab.com/purcell/sqlint
+- git:
+    local-name: linters/travis
+    uri: https://gitlab.com/travis-ci/travis.rb

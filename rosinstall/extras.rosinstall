@@ -1,0 +1,25 @@
+- git:
+    local-name: extras/devops
+    uri: https://github.com/coala/devops
+- git:
+    local-name: extras/bear-runtime-deps
+    uri: https://github.com/coala/bear-runtime-deps
+- git:
+    local-name: extras/coala-html
+    uri: https://github.com/coala/coala-html
+- git:
+    local-name: extras/coala-quickstart
+    uri: https://github.com/coala/coala-quickstart
+- git:
+    local-name: extras/docker-coala-base
+    uri: https://github.com/coala/docker-coala-base
+- git:
+    local-name: extras/rultor-python
+    uri: https://github.com/coala/rultor-python
+
+- git:
+    local-name: dependencies/asciinema
+    uri: https://github.com/asciinema/asciinema
+- git:
+    local-name: dependencies/rultor
+    uri: https://github.com/yegor256/rultor

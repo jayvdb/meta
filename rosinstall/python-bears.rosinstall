@@ -1,0 +1,111 @@
+- git:
+    local-name: linters/apertium-lint
+    uri: https://gitlab.com/jpsinghgoud/apertium-lint
+- git:
+    local-name: linters/autoflake
+    uri: https://github.com/myint/autoflake
+- git:
+    local-name: linters/autopep8
+    uri: https://github.com/hhatto/autopep8
+- git:
+    local-name: linters/bandit
+    uri: https://git.openstack.org/openstack/bandit
+- git:
+    local-name: linters/cmake-lint
+    uri: https://github.com/richq/cmake-lint
+- git:
+    local-name: linters/cppclean
+    uri: https://github.com/myint/cppclean
+- git:
+    local-name: linters/cpplint
+    uri: https://github.com/google/styleguide
+- git:
+    local-name: linters/dennis
+    uri: https://github.com/willkg/dennis
+- git:
+    local-name: linters/eradicate
+    uri: https://github.com/myint/eradicate
+- hg:
+    local-name: linters/guess-language-spirit
+    uri: https://bitbucket.org/spirit/guess_language
+- git:
+    local-name: linters/html-linter
+    uri: https://github.com/sk-/html-linter
+- git:
+    local-name: linters/HTTPolice
+    https://github.com/vfaronov/httpolice
+- git:
+    local-name: linters/isort
+    uri: https://github.com/timothycrosley/isort
+- git:
+    local-name: linters/language-check
+    uri: https://github.com/myint/language-check
+- git:
+    local-name: linters/memento-client
+    uri: https://github.com/mementoweb/py-memento-client
+- git:
+    local-name: linters/mypy
+    uri: https://github.com/python/mypy
+- git:
+    local-name: linters/nbformat
+    uri: https://github.com/jupyter/nbformat
+- git:
+    local-name: linters/nltk
+    uri: https://github.com/nltk/nltk
+- git:
+    local-name: linters/pycodestyle
+    uri: https://github.com/PyCQA/pycodestyle
+- git:
+    local-name: linters/pydocstyle
+    uri: https://github.com/PyCQA/pydocstyle
+- git:
+    local-name: linters/pyflakes
+    uri: https://github.com/PyCQA/pyflakes
+- git:
+    local-name: linters/pylint
+    uri: https://github.com/PyCQA/pylint
+- git:
+    local-name: linters/pyroma
+    uri: https://github.com/regebro/pyroma
+- git:
+    local-name: dependencies/PyYAML
+    uri: https://github.com/yaml/pyyaml
+- git:
+    local-name: linters/radon
+    uri: https://github.com/rubik/radon
+- git:
+    local-name: linters/restructuredtext-lint
+    uri: https://github.com/twolfson/restructuredtext-lint
+- git:
+    local-name: linters/rstcheck
+    uri: https://github.com/myint/rstcheck
+- git:
+    local-name: linters/safety
+    uri: https://github.com/pyupio/safety
+- git:
+    local-name: linters/scspell3k
+    uri: https://github.com/myint/scspell
+- git:
+    local-name: linters/vint
+    uri: https://github.com/Kuniwak/vint
+- git:
+    local-name: linters/vulture
+    uri: https://github.com/jendrikseipp/vulture
+- git:
+    local-name: linters/yamllint
+    uri: https://github.com/adrienverge/yamllint
+- git:
+    local-name: linters/yapf
+    uri: https://github.com/google/yapf
+
+# Indirect dependencies
+- svn:
+    local-name: dependencies/docutils
+    uri: https://svn.code.sf.net/p/docutils/code/trunk
+- git:
+    local-name: dependencies/sphinx
+    uri: https://github.com/sphinx-doc/sphinx
+
+- git:
+    local-name: dependencies/nltk_data
+    uri: https://github.com/nltk/nltk_data

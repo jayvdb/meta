@@ -1,0 +1,24 @@
+- git:
+    local-name: docs/user
+    uri: https://github.com/coala-analyzer/documentation
+- git:
+    local-name: docs/tutorial
+    uri: https://github.com/coala/coala-tutorial
+- git:
+    local-name: docs/aspect-docs
+    uri: https://github.com/coala/aspect-docs
+- git:
+    local-name: docs/bear-docs
+    uri: https://github.com/coala/bear-docs
+- git:
+    local-name: org/cEPs
+    uri: https://github.com/coala/cEPs
+- svn:
+    local-name: dependencies/docutils
+    uri: https://svn.code.sf.net/p/docutils/code/trunk
+- git:
+    local-name: dependencies/sphinx
+    uri: https://github.com/sphinx-doc/sphinx
+- git:
+    local-name: projects
+    uri: https://github.com/coala/projects

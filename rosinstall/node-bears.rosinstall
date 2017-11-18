@@ -1,0 +1,89 @@
+- git:
+    local-name: linters/alex
+    uri: https://github.com/wooorm/alex
+- git:
+    local-name: linters/autoprefixer
+    uri: https://github.com/postcss/autoprefixer
+- git:
+    local-name: linters/bootlint
+    uri: https://github.com/twbs/bootlint
+- git:
+    local-name: linters/coffeelint
+    uri: https://github.com/clutchski/coffeelint
+- git:
+    local-name: linters/complexity-report
+    uri: https://github.com/jared-stilwell/complexity-report
+- git:
+    local-name: linters/csscomb
+    uri: https://github.com/csscomb/csscomb.js
+- git:
+    local-name: linters/csslint
+    uri: https://github.com/CSSLint/csslint
+- git:
+    local-name: linters/dockerfile_lint
+    uri: https://github.com/projectatomic/dockerfile_lint
+- git:
+    local-name: linters/elm-format
+    uri: https://github.com/avh4/elm-format
+- git:
+    local-name: linters/eslint
+    uri: https://github.com/eslint/eslint
+- git:
+    local-name: linters/eslint-plugin-import
+    uri: https://github.com/eslint-plugin-import
+- git:
+    local-name: linters/happiness
+    uri: https://github.com/JedWatson/happiness
+- git:
+    local-name: linters/htmlhint
+    uri: https://github.com/yaniswang/HTMLHint
+- git:
+    local-name: linters/jshint
+    uri: https://github.com/jshint/jshint
+- git:
+    local-name: linters/postcss-cli
+    uri: https://github.com/postcss/postcss-cli
+- git:
+    local-name: linters/pug-lint
+    uri: https://github.com/pugjs/pug-lint
+- git:
+    local-name: linters/ramllint
+    uri: https://github.com/QuickenLoans/ramllint
+- git:
+    local-name: linters/remark-cli
+    uri: https://github.com/wooorm/remark
+- git:
+    local-name: linters/remark-lint
+    uri: https://github.com/wooorm/remark-lint
+- git:
+    local-name: linters/remark-validate-links
+    uri: https://github.com/wooorm/remark-validate-links
+- git:
+    local-name: linters/standard
+    uri: https://github.com/standard/standard
+- git:
+    local-name: linters/stylelint
+    uri: https://github.com/stylelint/stylelint
+- git:
+    local-name: linters/stylint
+    uri: https://github.com/SimenB/stylint
+- git:
+    local-name: linters/textlint
+    uri: https://github.com/textlint/textlint
+- git:
+    local-name: linters/tslint
+    uri: https://github.com/palantir/tslint
+- git:
+    local-name: linters/write-good
+    uri: https://github.com/btford/write-good
+
+# Indirect dependencies
+- git:
+    local-name: linters/babel-eslint
+    uri: https://github.com/babel/babel-eslint
+- git:
+    local-name: languages/elm
+    uri: https://github.com/elm-lang/elm-platform
+- git:
+    local-name: languages/typescript
+    uri: https://github.com/Microsoft/TypeScript

@@ -1,0 +1,9 @@
+- git:
+    local-name: unused/cobot
+    uri: https://github.com/coala/cobot
+- git:
+    local-name: unused/coala-gui
+    uri: https://github.com/coala/coala-gui
+- git:
+    local-name: unused/documentation
+    uri: https://gitlab.com/coala/documentation-old

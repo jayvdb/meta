@@ -1,0 +1,9 @@
+- git:
+    local-name: linters/Lint.jl
+    uri: https://github.com/tonyhffong/Lint.jl
+- svn:
+    local-name: linters/chktex
+    uri: svn://svn.sv.gnu.org/chktex/trunk
+- git:
+    local-name: linters/cppcheck
+    uri: https://github.com/danmar/cppcheck

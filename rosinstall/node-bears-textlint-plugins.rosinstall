@@ -1,0 +1,4 @@
+- git:
+    local-name: linters/textlint-plugin-asciidoc-loose
+    uri: https://github.com/textlint/textlint-plugin-asciidoc-loose
+# etc

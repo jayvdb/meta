@@ -1,0 +1,15 @@
+- git:
+    local-name: corobo
+    uri: https://github.com/coala/corobo
+- git:
+    local-name: extras/corobo-answers
+    uri: https://github.com/coala/corobo-answers
+- git:
+    local-name: libraries/IGitt
+    uri: https://gitlab.com/gitmate/open-source/IGitt
+- git:
+    local-name: dependencies/errbot
+    uri: https://github.com/errbotio/errbot
+- git:
+    local-name: dependencies/ramlient
+    uri: https://github.com/timofurrer/ramlient

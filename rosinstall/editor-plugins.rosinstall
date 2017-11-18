@@ -1,0 +1,21 @@
+- git:
+    local-name: editor-plugin/atom
+    uri: https://github.com/coala/coala-atom
+- git:
+    local-name: editor-plugin/brackets
+    uri: https://github.com/coala/coala-brackets
+- git:
+    local-name: editor-plugin/gedit
+    uri: https://github.com/coala/coala-gedit
+- git:
+    local-name: editor-plugin/eclipse
+    uri: https://github.com/coala/coala-eclipse
+- git:
+    local-name: editor-plugin/sublime
+    uri: https://github.com/coala/coala-sublime
+- git:
+    local-name: editor-plugin/vim
+    uri: https://github.com/coala/coala-vim
+- git:
+    local-name: editor-plugin/vs-code
+    uri: https://github.com/coala/coala-vs-code

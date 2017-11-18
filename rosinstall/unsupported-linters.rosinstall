@@ -1,0 +1,8 @@
+- git:
+    local-name: unsupported-linters/grammar-check
+    uri: https://github.com/viraja1/grammar-check
+
+- git:
+    local-name: unsupported-linters/rx
+    uri: https://github.com/rjbs/rx
+

@@ -1,0 +1,24 @@
+- git:
+    local-name: meta
+    uri: https://github.com/coala/meta
+- git:
+    local-name: org/organisation
+    uri: git@gitlab.com:coala/organisation.git
+- git:
+    local-name: org/artwork
+    uri: https://github.com/coala/artwork
+- git:
+    local-name: org/asknot-ng
+    uri: git://github.com/coala/asknot-ng.git
+- git:
+    local-name: org/cEPs
+    uri: https://github.com/coala/cEPs
+- git:
+    local-name: webservices
+    uri: https://gitlab.com/coala/landing
+- git:
+    local-name: website
+    uri: https://github.com/coala/landing-frontend
+- git:
+    local-name: projects
+    uri: https://github.com/coala/projects

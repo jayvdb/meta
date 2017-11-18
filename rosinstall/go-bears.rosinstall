@@ -1,0 +1,17 @@
+- git:
+    local-name: linters/golint
+    uri: https://github.com/golang/lint/golint
+- git:
+    local-name: linters/goreturns
+    uri: https://github.com/sqs/goreturns
+- git:
+    local-name: linters/errcheck
+    uri: https://github.com/kisielk/errcheck
+- git:
+    local-name: linters/tomlv
+    uri: https://github.com/BurntSushi/toml/cmd/tomlv
+
+# goimports and gotype are in golang tools repo
+- git:
+    local-name: language/go-tools
+    uri: https://github.com/golang/tools

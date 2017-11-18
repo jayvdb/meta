@@ -1,0 +1,15 @@
+- git:
+    local-name: coala
+    uri: https://github.com/coala/coala
+- git:
+    local-name: coala-bears
+    uri: https://github.com/coala/coala-bears
+- git:
+    local-name: libraries/PyPrint
+    uri: https://gitlab.com/coala/PyPrint
+- git:
+    local-name: libraries/coala-utils
+    uri: https://gitlab.com/coala/coala-utils
+- git:
+    local-name: libraries/package_manager
+    uri: https://gitlab.com/coala/package_manager
